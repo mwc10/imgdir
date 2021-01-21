@@ -1,0 +1,10 @@
+[package]
+name = "imgdir"
+version = "1.0.0"
+authors = ["mwc10 <43445389+mwc10@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.38"
